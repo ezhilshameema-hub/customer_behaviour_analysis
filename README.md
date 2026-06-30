@@ -178,28 +178,6 @@ Certain products are highly discount-dependent
 
 Express shipping users spend more on average
 
-📁 Project Structure
-project-folder/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── sql/
-│   └── business_queries.sql
-│
-├── dashboard/
-│   └── customer_dashboard.pbix
-│
-├── report/
-│   └── final_report.pdf
-│
-├── presentation/
-│   └── presentation.pptx
-│
-└── README.md
 
 How to Run
 1️⃣ Clone Repository
@@ -220,6 +198,7 @@ password = "your_password"
 host = "localhost"
 port = "5432"
 database = "database_name"
+
 4️⃣ Run Notebook
 jupyter notebook
 
@@ -258,8 +237,6 @@ Analytical thinking
 Dashboard design capabilities
 
 End-to-end project execution
-
-👩‍💻 Author
 
 Ezhil Shameema
 Aspiring Data Analyst | Python | SQL | Power BI
