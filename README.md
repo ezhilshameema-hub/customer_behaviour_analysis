@@ -59,8 +59,8 @@ SQL	Business analysis queries
 Power BI	Dashboard development
 Gamma	Project presentation
 
-📋 Project Steps
-1️⃣ Data Loading & EDA (Python)
+**Project Steps**
+**1️. Data Loading & EDA (Python)**
 
 Imported dataset using pandas
 
@@ -76,7 +76,7 @@ Customer distribution
 
 Product categories
 
-2️⃣ Data Cleaning & Feature Engineering
+**2️. Data Cleaning & Feature Engineering**
 
 Handled missing values (median imputation)
 
@@ -92,7 +92,7 @@ Removed redundant columns
 
 Ensured consistent data types
 
-3️⃣ Database Integration
+**3️. Database Integration**
 
 Connected Python to PostgreSQL using SQLAlchemy
 
@@ -101,8 +101,8 @@ Loaded cleaned data into database table
 Verified schema and structure
 
 Ran structured SQL queries
-
-4️⃣ SQL Business Analysis
+****
+4️. SQL Business Analysis****
 
 Sample business questions answered:
 
@@ -134,10 +134,10 @@ CTE (WITH)
 
 Window functions (ROW_NUMBER())
 
-5️⃣ Power BI Dashboard
+**Power BI Dashboard**
 
-Built an interactive dashboard including:
-
+**Built an interactive dashboard including:
+**
 KPI Cards:
 
 Total Customers
@@ -166,7 +166,7 @@ Shipping Type
 
 The dashboard allows dynamic filtering and business-driven analysis.
 
-📊 Key Insights
+**Key Insights**
 
 Majority of revenue comes from repeat customers
 
@@ -180,12 +180,12 @@ Express shipping users spend more on average
 
 
 How to Run
-1️⃣ Clone Repository
+1️. Clone Repository
 git clone https://github.com/your-username/project-name.git
 cd project-name
-2️⃣ Install Required Libraries
+2️. Install Required Libraries
 pip install pandas sqlalchemy psycopg2-binary jupyter
-3️⃣ Setup Database
+3️. Setup Database
 
 Install PostgreSQL / MySQL / SQL Server
 
@@ -199,7 +199,7 @@ host = "localhost"
 port = "5432"
 database = "database_name"
 
-4️⃣ Run Notebook
+4️. Run Notebook
 jupyter notebook
 
 Run all cells to:
@@ -208,13 +208,13 @@ Clean data
 
 Push data to database
 
-5️⃣ Run SQL Queries
+5. Run SQL Queries
 
 Open your database tool (pgAdmin / SSMS / MySQL Workbench)
 
 Execute the SQL script
 
-6️⃣ Open Power BI
+6. Open Power BI
 
 Open .pbix file
 
@@ -222,7 +222,7 @@ Refresh data connection
 
 Explore dashboard
 
-📈 Business Value
+Business Value
 
 This project demonstrates:
 
@@ -239,7 +239,7 @@ Dashboard design capabilities
 End-to-end project execution
 
 Ezhil Shameema
-Aspiring Data Analyst | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
 
 
 
